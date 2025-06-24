@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Shakayet+Hossain+%7C+Code+•+Teach+•+Inspire&fontSize=40" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Shakhawat+Srabon+%7C+Code+•+Teach+•+Inspire&fontSize=40" alt="Animated Header" />
   <br />
   <img src="https://github.com/shakayet/temporary-photo/blob/main/mainGitCover.jpg?raw=true" alt="Srabon Banner" width="100%" style="max-width:900px; border-radius:12px; margin-top:-20px;" />
 </p>
