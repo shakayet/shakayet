@@ -1,13 +1,9 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/shakayet/temporary-photo/blob/main/mainGitCover.jpg?raw=true" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Shakayet+Hossain+%7C+Code+•+Teach+•+Inspire&fontSize=40" alt="Animated Header" />
+  <br />
+  <img src="https://github.com/shakayet/temporary-photo/blob/main/mainGitCover.jpg?raw=true" alt="Srabon Banner" width="100%" style="max-width:900px; border-radius:12px; margin-top:-20px;" />
 </p>
 
-<h1 align="center">Hi, I'm MD. SHAKAYET HOSSAIN (Srabon) 👋</h1>
-<p align="center">
-  <i>"Code. Teach. Inspire."</i><br/>
-  <img src="https://komarev.com/ghpvc/?username=shakhawatsrabon&label=Profile%20views&color=0e75b6&style=flat" alt="shakhawatsrabon" />
-</p>
 
 ---
 
