@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Q7mNv33V/gitCover.jpg" alt="Banner" />
+  <img src="https://github.com/shakayet/temporary-photo/blob/main/mainGitCover.jpg?raw=true" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Md. Shakayet Hossain (Srabon) 👋</h1>
+<h1 align="center">Hi, I'm MD. SHAKAYET HOSSAIN (Srabon) 👋</h1>
 <p align="center">
   <i>"Code. Teach. Inspire."</i><br/>
   <img src="https://komarev.com/ghpvc/?username=shakhawatsrabon&label=Profile%20views&color=0e75b6&style=flat" alt="shakhawatsrabon" />
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Graduate | Tejgaon College, Dhaka  
+- 🎓 CSE Graduate  
 - 💼 Jr. Backend Engineer @ **SparkTech Agency**  
 - 🧠 Passionate about building backend services, REST APIs, and scalable apps  
 - 👨‍🏫 Taught **STL and programming** for 3+ years, ran 3 batches of workshops  
