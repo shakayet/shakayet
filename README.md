@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Shakhawat+Srabon+%7C+Code+•+Teach+•+Inspire&fontSize=40" alt="Animated Header" />
   <br />
   <img src="https://github.com/shakayet/temporary-photo/blob/main/mainGitCover.jpg?raw=true" alt="Srabon Banner" width="100%" style="max-width:900px; border-radius:12px; margin-top:-20px;" />
+  <img src="https://komarev.com/ghpvc/?username=shakhawatsrabon&label=Profile%20views&color=0e75b6&style=flat" alt="shakhawatsrabon" />
 </p>
 
 
