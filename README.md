@@ -66,8 +66,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=shakayet&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shakayet&show_icons=true&theme=tokyonight&hide_border=true" />
+<tr>
+<td>
+<a href="https://github.com/shakayet/github-readme-streak-stats" title="Go to Source">
+<img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shakayet&theme=react&border=61dafb&hide_border=true" alt="shakayet" />
+</a>
+</td>
+<td>
+<a href="https://github.com/shakayet/github-readme-stats" title="Go to Source">
+<img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=shakayet&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+</td>
+</tr>
 </div>
 
 ---
