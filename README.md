@@ -20,7 +20,7 @@
 - 🧠 Passionate about building backend services, REST APIs, and scalable apps  
 - 👨‍🏫 Taught **STL and programming** for 3+ years, ran 3 batches of workshops  
 - 🧩 ICPC Dhaka Regionalist ×3 | Best Rank: #54  
-- 🛠️ Dreamed and built the first programming culture at my campus  
+- 🛠️ Dreamed and built the first programming culture at my campus. 
 
 ---
 
