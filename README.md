@@ -61,6 +61,7 @@
 
 | 🚀 Project | 💬 Description | 🧰 Stack |
 |-----------|----------------|---------|
+| [** Income & Expense Tracker**]([https://github.com/shakayet/foodie-hub](https://github.com/shakayet/Income-expense-tracker)) | A daily life income expense tracker, admin panel| Tyepscript + Node.js + webscraping + MongoDB |
 | [**🍴 Foodie Hub**](https://github.com/shakayet/foodie-hub) | Full-featured restaurant app with cart, admin panel, and search | MERN + Tailwind |
 | [**🧠 Promotion Predictor**](https://github.com/shakayet/employee-promotion-prediction) | ML model to predict employee promotion with 78K data points | Python + Flask + Scikit-learn |
 | [**📦 Storage System**](https://github.com/shakayet/storage-management-system-backend) | Secure backend for file sharing, rename, calendar-view | Node.js + MongoDB |
