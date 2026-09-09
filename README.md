@@ -4,16 +4,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shakayet/temporary-photo/blob/main/mainGitCover.jpg?raw=true" alt="Srabon Banner" width="100%" style="max-width:900px; border-radius:12px;" />
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=shakhawatsrabon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shakayet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 # 👋 Hi, I'm Shakhawat Srabon
 
-💻 **Backend Developer | Node.js | TypeScript | System Design**
+💻 **Software Engineer | Node.js | TypeScript | System Design**
 
 Backend Engineer experienced in building **scalable APIs, real-time systems, payment flows, and production-ready backend services** using **Node.js, Express, MongoDB, PostgreSQL, Redis, and TypeScript**.
 
@@ -23,13 +21,13 @@ I enjoy designing clean backend architectures, solving real-world system problem
 
 # 🚀 About Me
 
-- 💼 **Team Lead / Jr. Backend Engineer** at **SparkTech Agency**
+- 💼 **Software Engineer & Team Lead** at **Sparktech Agency**
 - ⚙️ Specialized in **REST API development & backend architecture**
 - ⚡ Experienced with **Socket.IO real-time systems**
 - 💳 Built **Stripe-based payment and subscription systems**
 - ☁️ Worked with **AWS S3, CloudFront, Redis, Docker**
 - 👨‍🏫 Mentored developers and conducted programming workshops
-- 🏆 **ICPC Dhaka Regionalist ×3**
+- 🏆 **3× ICPC Dhaka Regionalist**
 
 ---
 
@@ -114,9 +112,9 @@ Personal finance backend with OCR receipt scanning, expense tracking, budget ale
 
 # 🏆 Achievements
 
-- 🥈 **ICPC Dhaka Regional 2022 — Rank #54**
-- 🥉 **ICPC Dhaka Regional 2021 — Rank #86**
-- 🏅 **ICPC Dhaka Regional 2023 — Rank #104**
+- 🔹 **ICPC Dhaka Regional 2021 — Rank #86**
+- 🔹 **ICPC Dhaka Regional 2022 — Rank #54**
+- 🔹 **ICPC Dhaka Regional 2023 — Rank #104**
 
 ---
 
@@ -134,8 +132,16 @@ Personal finance backend with OCR receipt scanning, expense tracking, budget ale
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakayet&theme=react&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=shakayet&theme=react&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api?username=shakayet&show_icons=true&theme=react&hide_border=true"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shakayet/shakayet/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shakayet/shakayet/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/shakayet/shakayet/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -148,6 +154,9 @@ Personal finance backend with OCR receipt scanning, expense tracking, budget ale
   </a>
   <a href="https://github.com/shakayet">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://shakhawat-srabon.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="mailto:shakayet.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
